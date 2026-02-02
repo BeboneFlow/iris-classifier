@@ -1,0 +1,1 @@
+python src/train.py -- test-size 0.2 -- random-state 42
